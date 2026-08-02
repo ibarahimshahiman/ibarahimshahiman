@@ -6,6 +6,8 @@ I am an IT student who enjoys learning programming, web development, networking,
 
 ---
 
+![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JvaDk0eWZ3bXlwNm5jMjFhazgyeWo5d3lrbnZ6N24zbmJlc2gxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BMfsFjz03H1vfy7OXr/giphy.gif)
+---
 ## 👨‍💻 About Me
 
 - 🌱 Currently learning **Java, C++, HTML, CSS, and JavaScript**
